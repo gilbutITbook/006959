@@ -14,5 +14,5 @@
 - extraction.conv.weights
 - yolo.weights
 
-* yolo.weights 파일은 release 탭에서 내려받아야 하며, 용량이 커서 내려받는 데 시간이 좀 걸립니다.
+yolo.weights 파일은 releases 탭에서 내려받아야 하며, 용량이 커서 내려받는 데 시간이 좀 걸립니다.
 
