@@ -8,10 +8,11 @@
 책의 전체 예제 파일 : projects.tar.gz
 
 물체 검출에 사용하는 예제 파일과 데이터
-darknet_test.tar.gz
-darknet_train.tar.gz
-extraction.conv.weights
-yolo.weights
 
-* yolo.weights 파일 용량이 커서 내려받는 데 시간이 좀 걸립니다.
+- darknet_test.tar.gz
+- darknet_train.tar.gz
+- extraction.conv.weights
+- yolo.weights
+
+* yolo.weights 파일은 release 탭에서 내려받아야 하며, 용량이 커서 내려받는 데 시간이 좀 걸립니다.
 
