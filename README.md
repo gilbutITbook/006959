@@ -12,7 +12,7 @@
 - darknet_test.tar.gz
 - darknet_train.tar.gz
 - extraction.conv.weights
-- yolo.weights
+- <a href="https://github.com/gilbutITbook/006959/releases/download/untagged-cfe24f3b20df4c3bc3c1/yolo.weights">yolo.weights</a>
 
 yolo.weights 파일은 releases 탭에서 내려받아야 하며, 용량이 커서 내려받는 데 시간이 좀 걸립니다.
 
