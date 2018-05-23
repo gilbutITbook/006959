@@ -1,18 +1,18 @@
-µö·¯´× ºÎÆ®Ä·ÇÁ with ÄÉ¶ó½º
+ë”¥ëŸ¬ë‹ ë¶€íŠ¸ìº í”„ with ì¼€ë¼ìŠ¤
 ===========================
 
-<µö·¯´× ºÎÆ®Ä·ÇÁ with ÄÉ¶ó½º> µµ¼­ÀÇ ¿¹Á¦ ÆÄÀÏÀÔ´Ï´Ù.
+<ë”¥ëŸ¬ë‹ ë¶€íŠ¸ìº í”„ with ì¼€ë¼ìŠ¤> ë„ì„œì˜ ì˜ˆì œ íŒŒì¼ìž…ë‹ˆë‹¤.
 
-ÃÑ 5°³ÀÇ ¾ÐÃà ÆÄÀÏÀÌ ÀÖ½À´Ï´Ù. ÀÚ¼¼ÇÑ ¼³¸íÀº Ã¥ÀÇ 1ÀåÀ» Âü°íÇÕ´Ï´Ù.
+ì´ 5ê°œì˜ ì••ì¶• íŒŒì¼ì´ ìžˆìŠµë‹ˆë‹¤. ìžì„¸í•œ ì„¤ëª…ì€ ì±…ì˜ 1ìž¥ì„ ì°¸ê³ í•©ë‹ˆë‹¤.
 
-Ã¥ÀÇ ÀüÃ¼ ¿¹Á¦ ÆÄÀÏ : projects.tar.gz
+ì±…ì˜ ì „ì²´ ì˜ˆì œ íŒŒì¼ : projects.tar.gz
 
-¹°Ã¼ °ËÃâ¿¡ »ç¿ëÇÏ´Â ¿¹Á¦ ÆÄÀÏ°ú µ¥ÀÌÅÍ
+ë¬¼ì²´ ê²€ì¶œì— ì‚¬ìš©í•˜ëŠ” ì˜ˆì œ íŒŒì¼ê³¼ ë°ì´í„°
 
 - darknet_test.tar.gz
 - darknet_train.tar.gz
 - extraction.conv.weights
-- <a href="https://github.com/gilbutITbook/006959/releases/download/untagged-cfe24f3b20df4c3bc3c1/yolo.weights">yolo.weights</a>
+- <a href="https://github.com/gilbutITbook/006959/releases/download/1.0/yolo.weights">yolo.weights</a>
 
-yolo.weights ÆÄÀÏÀº releases ÅÇ¿¡¼­ ³»·Á¹Þ¾Æ¾ß ÇÏ¸ç, ¿ë·®ÀÌ Ä¿¼­ ³»·Á¹Þ´Â µ¥ ½Ã°£ÀÌ Á» °É¸³´Ï´Ù.
+yolo.weights íŒŒì¼ì€ releases íƒ­ì—ì„œ ë‚´ë ¤ë°›ì•„ì•¼ í•˜ë©°, ìš©ëŸ‰ì´ ì»¤ì„œ ë‚´ë ¤ë°›ëŠ” ë° ì‹œê°„ì´ ì¢€ ê±¸ë¦½ë‹ˆë‹¤.
 
